@@ -1,0 +1,20 @@
+.bg-img {
+  background-image: url("./assets/img/herobgimg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.bg-img1 {
+  background-image: url("./assets/img/bgimgafterhero.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.bg-img2 {
+  background-image: url("./assets/img/linearbg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
